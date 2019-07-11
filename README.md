@@ -36,8 +36,17 @@ float DecodeFloatRGBA( vec4 enc )
 I still have to find whether or not there is a way to retrieve the Depth Buffer from an FBO.
 
 Here are the results :
-Simple scene :
 
-Sponza scene :
+-Simple scene
 
+![picture](ShadowMapping.PNG)
+
+We can even see the limits of the Shadow Map :
+
+![picture](ShadowMappingSizeSM.PNG)
+
+
+-Sponza scene :
+
+![picture](ShadowMappingSponza.PNG)
 

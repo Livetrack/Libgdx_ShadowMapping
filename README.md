@@ -33,7 +33,7 @@ float DecodeFloatRGBA( vec4 enc )
 }
 ```
 
-I still have to find whether or not there is a way to retrieve the Depth Buffer from an FBO.
+I still have to find if there is a way to retrieve the Depth Buffer from an FBO.
 
 Here are the results :
 
